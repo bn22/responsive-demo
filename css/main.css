@@ -10,3 +10,11 @@ h1, h2, h3, h4, .lead {
     font-family: 'Satisfy', Helvetica, sans-serif;
 }
 
+.jumbrotron {
+	background-color:#AAAAAA;
+}
+
+.first-row {
+	background-color:#AA5000;
+	margin: auto;
+}
